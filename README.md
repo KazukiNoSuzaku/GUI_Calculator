@@ -59,7 +59,7 @@ Make sure you have Python installed (3.x recommended).
 Check installation:
 ```bash
 python --version
-
+```bash
 Run the Application
 
 1. Clone the repository:
