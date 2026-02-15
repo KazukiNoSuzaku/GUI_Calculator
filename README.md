@@ -76,33 +76,33 @@ python Calc.py
 ````
 
 ## 🧠How It Works
--The GUI is built using Tkinter widgets.
--Buttons trigger functions that update the display.
--User input is captured and evaluated to perform arithmetic operations.
+- The GUI is built using Tkinter widgets.
+- Buttons trigger functions that update the display.
+- User input is captured and evaluated to perform arithmetic operations.
 
 
 ## 📸 Use Cases
 
 This project is useful for:
--Beginners learning Python GUI programming
--Understanding event-driven applications
--Practicing small standalone Python projects
--Portfolio demonstration
+- Beginners learning Python GUI programming
+- Understanding event-driven applications
+- Practicing small standalone Python projects
+- Portfolio demonstration
 
 ## 🔮 Possible Improvements
--Keyboard input support
--Scientific calculator functions
--Better UI styling/themes
--Calculation history
--Error handling for invalid expressions
+- Keyboard input support
+- Scientific calculator functions
+- Better UI styling/themes
+- Calculation history
+- Error handling for invalid expressions
 
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome.
 You can:
--Fork the repository
--Create a new branch
--Submit a pull request
+- Fork the repository
+- Create a new branch
+- Submit a pull request
 
 ## 📜 License
 
