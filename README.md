@@ -65,8 +65,9 @@ python --version
 Run the Application
 
 1. Clone the repository:
+````bash
 git clone https://github.com/KazukiNoSuzaku/GUI_Calculator.git
-
+````
 2. Navigate into the project folder:
 cd GUI_Calculator
 
