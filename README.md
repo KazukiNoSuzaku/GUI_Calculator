@@ -62,7 +62,7 @@ python --version
 ````
 
 
-Run the Application
+### Run the Application
 
 1. Clone the repository:
 ````bash
