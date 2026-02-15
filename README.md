@@ -59,3 +59,22 @@ Make sure you have Python installed (3.x recommended).
 Check installation:
 ```bash
 python --version
+
+Run the Application
+
+1. Clone the repository:
+git clone https://github.com/KazukiNoSuzaku/GUI_Calculator.git
+
+2. Navigate into the project folder:
+cd GUI_Calculator
+
+3. Run the calculator:
+
+python Calc.py
+
+# 🧠How It Works
+-The GUI is built using Tkinter widgets.
+-Buttons trigger functions that update the display.
+-User input is captured and evaluated to perform arithmetic operations.
+
+
